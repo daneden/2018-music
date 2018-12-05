@@ -29,6 +29,11 @@
   }
 }
 
+body {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
 h1 {
   font-size: 1rem;
 }
