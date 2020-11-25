@@ -45,8 +45,6 @@ p {
 
 a {
   color: inherit;
-  -webkit-text-decoration-skip: ink;
-  text-decoration-skip: ink;
   text-decoration: underline;
 }
 
