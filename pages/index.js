@@ -217,7 +217,7 @@ export default function HomePage() {
         </div>
       </div>
       <style jsx>{`
-        :global(img) {
+        :global(img:not([src$=".svg"])) {
           background-color: rgba(128, 128, 128, 0.1);
         }
       `}</style>
