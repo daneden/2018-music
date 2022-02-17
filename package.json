@@ -6,7 +6,7 @@
   "author": "Daniel Eden <dan.eden@me.com>",
   "license": "MIT",
   "dependencies": {
-    "next": "^10.0.3",
+    "next": "^12.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
